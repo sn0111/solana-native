@@ -17,7 +17,7 @@
     "properties": {
       "files": [
         {
-          "uri": "imageUrl",
+          "uri": "https://raw.githubusercontent.com/vvsatyanarayana/solana-native/master/metadata-json-files/images/my($index).jpg",
           "type": "image/png"
         }
       ],
@@ -25,10 +25,10 @@
       "maxSupply": 0,
       "creators": [
         {
-          "address": "CBBUMHRmbVUck99mTCip5sHP16kzGj3QTYB8K3XxwmQx",
+          "address": "waLLWfzyA6haMqYN5UbNbUs9LTxiEUQ1gA2Pkx2mPrX",
           "share": 100
         }
       ]
     },
-    "image": "imageUrl"
+    "image": "https://raw.githubusercontent.com/vvsatyanarayana/solana-native/master/metadata-json-files/images/my($index).jpg"
   }
