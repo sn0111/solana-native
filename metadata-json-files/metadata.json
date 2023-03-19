@@ -1,9 +1,9 @@
 {
-    "name": "Custom NFT #1",
+    "name": "Neon sn #$number",
     "symbol": "CNFT",
-    "description": "A description about my custom NFT #1",
+    "description": "A description about creating the Neon NFTs using candy machine",
     "seller_fee_basis_points": 500,
-    "external_url": "https://www.customnft.com/",
+    "external_url": "",
     "attributes": [
       {
         "trait_type": "NFT type",
